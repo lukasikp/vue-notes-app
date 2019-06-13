@@ -1,6 +1,6 @@
-# notes-app
+# vue notes-app
 
-vue example
+example
 
 ## Project setup
 
